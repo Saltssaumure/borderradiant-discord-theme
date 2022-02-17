@@ -18,6 +18,7 @@ foreignObject[mask*="url(#"]
 .accountList-Wii_T5,
 .accountProfileCard-lbN7n-,
 .appAvatar-2htirv,
+.artContainer-1yaXct,
 .audioControls-3fmemK,
 .auto-2K3UW5::-webkit-scrollbar-thumb,
 .auto-2K3UW5::-webkit-scrollbar-track,
@@ -29,10 +30,12 @@ foreignObject[mask*="url(#"]
 .background-3d_SjE,
 .backgroundOptionInner-SSz19O,
 .backgroundOptionRing-1vvQ0C,
+.badge-370Op6,
 .banner-3D8GgT,
 .banner-ppi-o1,
 .bar-1Bhnl9,
 .bar-2eAyLE,
+.bar-H6j3_Q,
 .baseShapeRound-3epLEv,
 .bd-addon-list .bd-addon-card,
 .bd-button,
@@ -67,6 +70,7 @@ foreignObject[mask*="url(#"]
 .categoryItemDefaultCategory-3haEDq,
 .channelContainer-3YAhb_,
 .channelTextArea-1VQBuV,
+.checkbox-1ycfTw .checkboxInner-1aRh1d span,
 .closeButton-PCZcma,
 .connection-YOVI9j,
 .connectionHeader-Ixbb1s,
@@ -78,6 +82,7 @@ foreignObject[mask*="url(#"]
 .container-2oNtJn,
 .container-2rzKKA,
 .container-30qY7E,
+.container-3i3IzO,
 .container-x8Y1ix,
 .containerBackground-Ang24O,
 .content-1gYQeQ,
@@ -121,12 +126,14 @@ foreignObject[mask*="url(#"]
 .hero-1aNo0v,
 .hljs,
 .html5-video-player:not(.ytp-touch-mode) ::-webkit-scrollbar-thumb,
+.icon-39rdLt,
 .icon-mJhEWn,
 .iconActiveLarge-ac-EDu,
 .iconActiveMedium-27_R5B,
 .iconActiveMini-1h3oNi,
 .iconContainer-6xlTpK,
 .iconInactive-26M06U,
+.iconWrapper-3plkqh,
 .imageUploaderIcon-2OHmFu,
 .imageUploaderInner-IIRaFr,
 .imageWrapper-oMkQl4,
@@ -144,6 +151,7 @@ foreignObject[mask*="url(#"]
 .jumpToPresentBar-1cEnH0,
 .keybindShortcut-3zF1P9 span,
 .layout-1qmrhw,
+.liveShapeRound-2Tgi2d,
 .markup-eYLPri code.inline,
 .markup-eYLPri pre,
 .mediaBarGrabber-FvJKJg,
@@ -166,8 +174,12 @@ foreignObject[mask*="url(#"]
 .overlayTitle-2efoIF,
 .pencilContainer-18TrEJ,
 .perk-19D_HN,
+.perks-2IIbWQ,
+.pictureInPictureVideo-2puO2Q,
+.pictureInPictureWindow-3ms5Zy,
 .platform-win .sidebar-1tnWFu,
 .popout-1KHNAq,
+.popout-TdhJ6Z,
 .popoutContainer-2wbmiM,
 .previewMessage-2g_aBv,
 .profileBadge-12r2Nm:before,
@@ -183,6 +195,7 @@ foreignObject[mask*="url(#"]
 .result-pzZrwj,
 .result-pzZrwj:after,
 .root-g14mjS,
+.row-1qtctT,
 .rsvpCount-iCkObl,
 .scrollableContainer-15eg7h,
 .search-2Mwzzq .DraftEditor-root .DraftEditor-editorContainer,
@@ -195,6 +208,7 @@ foreignObject[mask*="url(#"]
 .side-2ur1Qk .item-3XjbnG,
 .size24-9rrwDS .moreUsers-_v6T-L,
 .sourceThumbnail-ERDcZE,
+.spine-2vt3pM,
 .spoilerText-27bIiA,
 .status-15kcmy,
 .sticker-H2HhJD,
@@ -235,4 +249,9 @@ foreignObject[mask*="url(#"]
 .ytp-tooltip-text
 {
     border-radius: 0;
+}
+
+.liveIndicator-3bhXBF
+{
+    border-radius: 0!important;
 }
