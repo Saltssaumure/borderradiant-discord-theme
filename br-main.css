@@ -1,0 +1,133 @@
+/**
+ * @name BorderRadian't (partial)
+ * @author Saltssaumure#7557
+ * @description Removes rounded corners from Discord. Please download the autoupdating version from GitHub!
+ * @version 0
+ * @source https://github.com/Saltssaumure/borderradiant-discord-theme
+ * @website https://saltssaumure.github.io/borderradiant-discord-theme
+*/
+
+/* Servers sidebar */
+.folderIconWrapper-1oRIZr,
+.iconInactive-26M06U,
+.wrapperSimple-Js2rIO,
+.expandedFolderBackground-1kSAf6,
+.baseShapeRound-3epLEv {
+    border-radius: 0;
+}
+foreignObject[mask*="url(#"] {
+    mask: none;
+}
+
+/* Main section */
+/* Channels bar */
+.bar-2eAyLE,
+.content-1gYQeQ,
+.unread-36eUEm,
+.gameIcon-1mDo1J,
+.button-12Fmur,
+.wrapper-1VLyxH,
+.content-1Tgc42,
+.avatar-3FKimL,
+.item-2LIpTv {
+    border-radius: 0;
+}
+/* Chat section */
+.button-f2h6uQ,
+.searchBar-jGtisZ,
+.newMessagesBar-1hF-9G,
+.emptyChannelIcon-1YdEz2,
+.content-3spvdd,
+.reaction-2A2y9y,
+.wrapper-2SplAX,
+.executedCommandAvatar-3oOnb1,
+.replyAvatar-sHd2sU,
+.replyBadge-LMm_Ic,
+.threadMessageAccessoryAvatar-17qE_g,
+.embed-hKpSrO,
+.embedMedia-1mdWSP,
+.embedImage-2Ynqkh img,
+.embedImage-2Ynqkh video,
+.embedThumbnail-2nTasl img,
+.embedThumbnail-2nTasl video,
+.embedVideo-2ixt5A img,
+.embedVideo-2ixt5A video,
+.wrapper-1HIH0j,
+.guildIconExpired-2BFmZC,
+.rsvpCount-iCkObl,
+.iconActiveLarge-ac-EDu,
+.channelTextArea-1VQBuV,
+.scrollableContainer-15eg7h,
+.containerBackground-Ang24O,
+.markup-eYLPri pre,
+.hljs,
+.imageWrapper-oMkQl4,
+.jumpToPresentBar-1cEnH0,
+.wrapper-2vIMkT,
+.mention,
+.markup-eYLPri code.inline,
+.spoilerText-27bIiA,
+.px-MnE_OR.botTag-7aX5WZ {
+    border-radius: 0;
+}
+
+/* Popouts */
+.menu-1QACrS,
+.item-1OdjEX,
+.container-18GwIk,
+.icon-mJhEWn,
+.messagesPopoutWrap-3zryHW,
+.messageGroupWrapper-1jf_7C,
+.avatar-2e8lTP,
+.button-cfOvv-,
+.root-g14mjS,
+.header-1zd7se,
+.channelContainer-3YAhb_,
+.content-2hZxGK,
+.select-1Ia3hD,
+.footer-31IekZ,
+.container-2oNtJn,
+.topPill-3DJJNV .item-3XjbnG,
+.container-2rzKKA,
+.avatar-3TrM7c,
+.size24-9rrwDS .moreUsers-_v6T-L,
+.input-2g-os5,
+/* .container-2nx-BQ, .input-2XRLou */
+.card-m7VgZ8,
+.qualitySettingsContainer-2LjkfM,
+.item-2OyinQ:last-child,
+.item-2OyinQ:first-child,
+.noiseCancellationPopout-2-e5Xz,
+.container-1ILvLB,
+.tile-2TcwiO,
+.overlayTitle-2efoIF,
+.status-15kcmy,
+.contextMenuNub-NuTZ_U,
+.sourceThumbnail-ERDcZE,
+.button-3Vyz67,
+.button-1_oXub,
+.messageContainer-3VTXBC,
+.jumpButton-1V_1FA,
+.iconActiveMedium-27_R5B,
+.tooltip-14MtrL,
+.userPopout-2j1gM4,
+.pencilContainer-18TrEJ,
+.avatarWrapper-eenWra,
+.avatarHoverTarget-1zzfRL,
+.profileBadge-12r2Nm:before
+{
+    border-radius: 0;
+}
+
+/* Search sidebar */
+.side-2ur1Qk .item-3XjbnG,
+.searchResult-O9NDji {
+    border-radius: 0;
+}
+
+/* Scrollbar */
+.thin-31rlnD::-webkit-scrollbar-thumb,
+.auto-2K3UW5::-webkit-scrollbar-thumb,
+.auto-2K3UW5::-webkit-scrollbar-track {
+    border-radius: 0;
+}

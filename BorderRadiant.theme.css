@@ -1,0 +1,31 @@
+/**
+ * @name BorderRadian't
+ * @author Saltssaumure#7557
+ * @description Removes rounded corners from Discord.
+ * @version Autoupdate
+ * @source https://github.com/Saltssaumure/borderradiant-discord-theme
+ * @website https://saltssaumure.github.io/borderradiant-discord-theme
+*/
+
+/*
+                                                Made by:
+ _______  _______  _    _________ _______  _______  _______           __   __           _______  _______ 
+(  ____ \(  ___  )( \   \__   __/(  ____ \(  ____ \(  ___  )|\     /|(  \ /  )|\     /|(  ____ )(  ____ \
+| (____\/| (___) || |      | |   | (____\/| (____\/| (___) || |   | || || || || |   | || (____)|| (__  \/
+(_____  )|  ___  || |      | |   (_____  )(_____  )|  ___  || |   | || |(_)| || |   | || __  __)|  __)   
+/\____) || )   ( || (____/\| |   /\____) |/\____) || )   ( || (___) || )   ( || (___) || ) \ \__| (____/\
+\_______)|/     \|(_______/)_(   \_______)\_______)|/     \|(_______)|/     \|(_______)|/   \__/(_______/
+                                       donut steel (but do fork)!								  
+Discord: Saltssaumure#7557
+Twitter: @Saltssaumure
+*/
+
+@import url("https://saltssaumure.github.io/borderradiant-discord-theme/br-main.css");
+@import url("https://saltssaumure.github.io/borderradiant-discord-theme/br-alpha.css");
+@import url("https://saltssaumure.github.io/borderradiant-discord-theme/br-beta.css");
+@import url("https://saltssaumure.github.io/borderradiant-discord-theme/br-gamma.css");
+
+:root
+{
+	--compact-message-spacing: 1; /* Space between messages in compact mode, ie. box mode. Default: 1 */
+}
