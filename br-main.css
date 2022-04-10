@@ -2,7 +2,7 @@
  * @name BorderRadiant (partial)
  * @author Saltssaumure#7557
  * @description Removes rounded corners from Discord. Please download the autoupdating version from GitHub!
- * @version 2
+ * @version 3
  * @source https://github.com/Saltssaumure/borderradiant-discord-theme
  * @website https://saltssaumure.github.io/borderradiant-discord-theme
 */
@@ -57,6 +57,7 @@ foreignObject[mask*="url(#"]
 .base-2v-uc0,
 .baseShapeRound-3epLEv,
 .baseShapeRoundLeft-heLrHp,
+.bd-addon-error-icon,
 .bd-addon-list .bd-addon-card,
 .bd-button,
 .bd-controls>.bd-addon-button:first-of-type,
@@ -65,6 +66,8 @@ foreignObject[mask*="url(#"]
 .bd-search-wrapper,
 .bd-select .bd-select-options,
 .bd-select,
+.bd-switch-body,
+.bd-tab-item,
 .bd-toast,
 .blob-1uHjdp,
 .blockquoteContainer-3VtvI1 .blockquoteDivider-363utW,
@@ -123,6 +126,7 @@ foreignObject[mask*="url(#"]
 .container-2dXT_2,
 .container-2ebMPP,
 .container-2McqkF,
+.container-2nx-BQ, .input-2XRLou,
 .container-2O1UgZ,
 .container-2oNtJn,
 .container-2rzKKA,
@@ -130,6 +134,8 @@ foreignObject[mask*="url(#"]
 .container-32HW5s,
 .container-3EtAkD,
 .container-3i3IzO,
+.container-3jbRo5,
+.container-3PVapX p>img, .image-ZPv20Y,
 .container-3XgAHv,
 .container-3zZkKh,
 .container-lJuBHq,
@@ -240,6 +246,7 @@ foreignObject[mask*="url(#"]
 .input-3r5zZY,
 .inset-SbsSFp,
 .invite-3uuHYQ,
+.inviteRow-3vmB7i,
 .inviteSplash-2nkLRX,
 .item-1BCeuB,
 .item-1OdjEX,
@@ -266,6 +273,7 @@ foreignObject[mask*="url(#"]
 .membershipDialog-2wAdpQ,
 .mention,
 .menu-1QACrS,
+.message-G6O-Wv,
 .messageContainer-3VTXBC,
 .messageGroupWrapper-1jf_7C,
 .messages-23can0,
@@ -287,6 +295,7 @@ foreignObject[mask*="url(#"]
 .optionBox-1UOevl,
 .optionContainer-32r7Dj,
 .optionContainer-yOpaLq,
+.optionPill-2kmuZR,
 .outer-2JOHae,
 .outerWrapper-3UdjNj,
 .overflow-W0reYu,
@@ -298,6 +307,8 @@ foreignObject[mask*="url(#"]
 .peopleListItem-u6dGxF.active-2UF8Zh,
 .perk-19D_HN,
 .perks-2IIbWQ,
+.phoneField-3NAPDv .countryButton-1cNDvB,
+.phoneField-3NAPDv,
 .pictureInPictureVideo-2puO2Q,
 .pictureInPictureWindow-3ms5Zy,
 .pill-1HLSrc,   
@@ -305,6 +316,7 @@ foreignObject[mask*="url(#"]
 .popout-1KHNAq,
 .popout-TdhJ6Z,
 .popoutContainer-2wbmiM,
+.popoutList-10IFAa,
 .popoutRoleDot-2_Nt5g,
 .previewContainer-1GxmBJ,
 .previewContainer-1xQAsw,
@@ -315,6 +327,7 @@ foreignObject[mask*="url(#"]
 .progressBar-18rmp1,
 .px-MnE_OR.botTag-7aX5WZ,
 .qualitySettingsContainer-2LjkfM,
+.questionMark-3V9mGJ,
 .quickswitcher-pKcM9U,
 .radioBar-3w9XY-,
 .react-datepicker,
@@ -361,6 +374,7 @@ foreignObject[mask*="url(#"]
 .section-3G9aLW:last-child,
 .section-3G9aLW:only-child,
 .select-1Ia3hD,
+.selectableItem-3-fmiM,
 .settingCard-xZSDjS,
 .settingsFormItem-25zW3t,
 .side-2ur1Qk .item-3XjbnG,
@@ -443,8 +457,9 @@ foreignObject[mask*="url(#"]
 .ytp-title-channel-logo,
 .ytp-title-channel,
 .ytp-tooltip-image,
+.ytp-tooltip-text-wrapper,
 .ytp-tooltip-text,
-.ytp-tooltip-text-wrapper
+#bd-editor-controls button
 {
     border-radius: 0;
 }

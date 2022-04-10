@@ -1,0 +1,35 @@
+/**
+ * @name BorderRadiant (SVGs)
+ * @author Saltssaumure#7557
+ * @description Removes rounded corners from SVGs in Discord. Please download the autoupdating version from GitHub!
+ * @version 1
+ * @source https://github.com/Saltssaumure/borderradiant-discord-theme
+ * @website https://saltssaumure.github.io/borderradiant-discord-theme
+*/
+
+/* Toggle slider */
+.slider-32CRPX rect,
+.bd-switch-handle {
+    rx: 0;
+}
+
+/* Radio options */
+.radioBar-3w9XY- div:first-of-type svg path {
+    d: path("M 20 20 V 4 H 4 V 20 Z M 22 22 V 2 H 2 V 22 Z M 18 18 V 6 H 6 V 18 Z");
+}
+.radioBar-3w9XY- div:first-of-type svg path:only-child {
+    d: path("M 20 20 V 4 H 4 V 20 Z M 22 22 V 2 H 2 V 22 Z");
+}
+.radioIconForeground-2BMavi {
+    r: 0;
+}
+
+/* Keybinds warning */
+.icon-2fP4ae path {
+	d: path("M 0 0 V 20 H 20 V 0 Z M 9 4 H 11 V 11 H 9 V 4 Z M 10 15.25 C 9.31 15.25 8.75 14.691 8.75 14 C 8.75 13.31 9.31 12.75 10 12.75 C 10.69 12.75 11.25 13.31 11.25 14 C 11.25 14.691 10.69 15.25 10 15.25 Z");
+}
+
+/* Information icon */
+.detailsIcon-2NtTO9 path {
+    d: path("M 6 2 H 2 V 10 H 10 V 2 z M 6 3.376 A 0.625 0.625 0 1 1 6 4.626 A 0.625 0.625 0 0 1 6 3.376 z M 7.5 8.5 h -3 v -1 h 1 V 6 H 5 V 5 h 1 a 0.5 0.5 0 0 1 0.5 0.5 v 2 h 1 v 1 z");
+}
