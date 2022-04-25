@@ -13,6 +13,11 @@
     rx: 0;
 }
 
+/* Don't remember what this does */
+.icon-1Hx9id rect {
+    rx: 0;
+}
+
 /* Radio options */
 .radioBar-3w9XY- div:first-of-type svg path {
     d: path("M 20 20 V 4 H 4 V 20 Z M 22 22 V 2 H 2 V 22 Z M 18 18 V 6 H 6 V 18 Z");

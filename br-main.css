@@ -65,9 +65,15 @@ foreignObject[mask*="url(#"]
 .bd-controls>.bd-addon-button:first-of-type,
 .bd-controls>.bd-addon-button:last-of-type,
 .bd-number-input,
+.bd-pagination button,
+.bd-placeholder-card,
 .bd-search-wrapper,
 .bd-select .bd-select-options,
 .bd-select,
+.bd-server-card,
+.bd-server-count-dot,
+.bd-server-icon,
+.bd-server-tag,
 .bd-switch-body,
 .bd-tab-item,
 .bd-toast,
@@ -141,6 +147,7 @@ foreignObject[mask*="url(#"]
 .container-3PVapX p>img, .image-ZPv20Y,
 .container-3XgAHv,
 .container-3zZkKh,
+.container-5N5x2A,
 .container-8Futzw,
 .container-lJuBHq,
 .container-x8Y1ix,
@@ -249,6 +256,7 @@ foreignObject[mask*="url(#"]
 .input-2g-os5,
 .input-3r5zZY,
 .inset-SbsSFp,
+.integration-1qC-fv,
 .invite-3uuHYQ,
 .inviteRow-3vmB7i,
 .inviteSplash-2nkLRX,
@@ -468,7 +476,8 @@ foreignObject[mask*="url(#"]
 .ytp-tooltip-image,
 .ytp-tooltip-text-wrapper,
 .ytp-tooltip-text,
-#bd-editor-controls button
+#bd-editor-controls button,
+#bd-pub-button
 {
     border-radius: 0;
 }
@@ -476,7 +485,8 @@ foreignObject[mask*="url(#"]
 .ChannelDms-channelpopout-popout .ChannelDms-channelpopout-collapseButton,
 .liveIndicator-3bhXBF,
 .hue-2nWTuO>div>div>div>div,
-.saturation-white>div>div
+.saturation-white>div>div,
+.timestamp-modal-custom-input
 {
     border-radius: 0!important;
 }
