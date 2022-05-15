@@ -1,0 +1,34 @@
+/**
+ * @name BorderRadiant (ChannelTabs)
+ * @author Saltssaumure#7557
+ * @description Removes rounded corners from ChannelTabs plugin. Please download the autoupdating version from GitHub!
+ * @version 1
+ * @source https://github.com/Saltssaumure/borderradiant-discord-theme
+ * @website https://saltssaumure.github.io/borderradiant-discord-theme
+*/
+
+.channelTabs-favContainer .channelTabs-fav,
+.channelTabs-favContainer .channelTabs-fav .channelTabs-mentionBadge,
+.channelTabs-favContainer .channelTabs-fav .channelTabs-unreadBadge,
+.channelTabs-favContainer .channelTabs-fav .channelTabs-favIcon,
+.channelTabs-tabContainer .channelTabs-tab,
+.channelTabs-tabContainer .channelTabs-tab .channelTabs-mentionBadge,
+.channelTabs-tabContainer .channelTabs-tab .channelTabs-unreadBadge,
+.channelTabs-tabContainer .channelTabs-tab .channelTabs-tabIcon,
+.channelTabs-tabContainer .channelTabs-newTab,
+.channelTabs-tabContainer .channelTabs-closeTab,
+.channelTabs-tabContainer .channelTabs-tabNav>div {
+    border-radius: 0;
+}
+
+.channelTabs-tabContainer .channelTabs-tabIconWrapper img[src*="com/avatars/"],
+.channelTabs-favContainer .channelTabs-favIconWrapper img[src*="com/avatars/"] {
+    clip-path: inset(2px);
+}
+
+.channelTabs-tabContainer .channelTabs-tabIconWrapper rect,
+.channelTabs-favContainer .channelTabs-favIconWrapper rect {
+    rx: 0;
+    ry: 0;
+    stroke-width: 1px;
+}
