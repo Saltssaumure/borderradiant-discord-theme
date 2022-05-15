@@ -38,3 +38,8 @@
 .detailsIcon-2NtTO9 path {
     d: path("M 6 2 H 2 V 10 H 10 V 2 z M 6 3.376 A 0.625 0.625 0 1 1 6 4.626 A 0.625 0.625 0 0 1 6 3.376 z M 7.5 8.5 h -3 v -1 h 1 V 6 H 5 V 5 h 1 a 0.5 0.5 0 0 1 0.5 0.5 v 2 h 1 v 1 z");
 }
+
+/* Server boost tier */
+.tierMarkerLabelPlusIcon-2zLkr7 path {
+    d: path("M 2 2 V 22 H 22 V 2 Z M 17 13.001 H 13 V 17.001 H 11 V 13.001 H 7 V 11.001 H 11 V 7.001 H 13 V 11.001 H 17 V 13.001 Z");
+}

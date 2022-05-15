@@ -9,6 +9,8 @@
 
 @import url("https://saltssaumure.github.io/borderradiant-discord-theme/br-svg.css");
 
+@import url("https://saltssaumure.github.io/borderradiant-discord-theme/plugin/br-channeltabs.css");
+
 .assetWrapperMasked-1iw9lV,
 .assetsLargeMaskStreamPreview--ugZjW,
 .assetsLargeMaskUserPopout-3N96A8,
@@ -118,7 +120,9 @@ foreignObject[mask*="url(#"]
 .checkboxWrapper-2fDzaA.row-31nALW,
 .checklistContainer-12xGp5,
 .checklistHeader-3liG7E,
+.childButton-3o_dlg,
 .closeButton-PCZcma,
+.closeIcon-2jT3e_,
 .colorPickerSwatch-RTUGRR,
 .colorPickerSwatch-RTUGRR.custom-1Up2lr,
 .colorPickerSwatch-RTUGRR.default-3ISV7m,
@@ -221,6 +225,7 @@ foreignObject[mask*="url(#"]
 .gifIconContainer-3os21a,
 .grabber-2GQyvM,
 .group-LWHoGI,
+.guildContainer-1O-rjS,
 .guildIcon-uYC13g,
 .guildIconExpired-2BFmZC,
 .guildSidebar-pjuGkm,
@@ -423,15 +428,19 @@ foreignObject[mask*="url(#"]
 .tierBody-3ju-rc,
 .tierHeader-3q9jIw,
 .tierHeader-wgo0w_,
+.tierMarker-Vw1C95,
+.tierMarkerLabelText-1wk8KK,
+.tierUnlocked-1yG5Ic,
 .tierWrapper-CsnudO,
+.tile-2mmK5T,
 .tile-2TcwiO,
 .tile-2TcwiO,
 .tileBaseContainer-2zuu3-,
 .tileSizer-GVC1ge,
 .timestamp-6-ptG3,
-.tonetagWithBg,
 .tooltip-14MtrL,
 .tooltip-16UpTB,
+.tooltip-1T4pLi,
 .tooltip-20W1V0,
 .topPill-3DJJNV .item-3XjbnG,
 .unread-36eUEm,
