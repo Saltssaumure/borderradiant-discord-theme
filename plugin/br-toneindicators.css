@@ -1,0 +1,12 @@
+/**
+ * @name BorderRadiant (ToneIndicators)
+ * @author Saltssaumure#7557
+ * @description Removes rounded corners from ToneIndicators plugin. Please download the autoupdating version from GitHub!
+ * @version 1
+ * @source https://github.com/Saltssaumure/borderradiant-discord-theme
+ * @website https://saltssaumure.github.io/borderradiant-discord-theme
+*/
+
+.tone-tag {
+    --tone-corners: 0!important;
+}
